@@ -8,5 +8,6 @@ O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep
 
 Para exemplo, utilizaremos o projeto que realiza Transfer Learning com o Dataset do MNIST. O dataset utilizado engloba duas classes: gatos e cachorros.
 
-Observações: Neste projeto, você pode usar sua própria base de dados (exemplo: fotos suas, dos seus pais, dos seus amigos, dos seus animais domésticos, etc), o exemplo de gatos e cachorros, pode ser substituído por duas outras classes do seu interesse. O Dataset criado em nosso projeto anterior, pode ser utilizado agora.  
+Observações: Neste projeto, usei minha própria base de dados: fotos de chinelos e tênis.
+Dataseet: https://drive.google.com/drive/folders/17Qxe9ssBDk6A2nvxvdPhU60bvMun9Tcc?usp=sharing
 
